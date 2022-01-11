@@ -1,7 +1,8 @@
 # CokeCodes Terminal
 ## What is CokeCodes Terminal
-Terminal is a UNIX like terminal app in CokeCodes.  
+Terminal is a UNIX like terminal app in [CokeCodes](https://github.com/Avdpro/CokeCodes).  
 ![terminal](git/ui_01.png)
+Hands on **Terminal** at [www.cokecodes.com](www.cokecodes.com)
 
 Terminal and commands runs on it are coded with Javascript.
 ## Features
