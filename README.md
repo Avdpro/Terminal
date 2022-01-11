@@ -23,4 +23,4 @@ Terminal and commands runs on it are coded with Javascript.
 - Settings: font, color, theme...
 
 ## Ideas?
-If you like Terminal, have ideas to improve, concat me at pxavdpro@gmail.com
+If you like Terminal, have ideas to improve, contact me at pxavdpro@gmail.com
